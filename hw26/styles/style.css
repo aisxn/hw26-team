@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: #be1f33;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: #9ed5dc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: #2f8791;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: #3d6f56;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* AIGERIM */
+
+.home-ai {
+    width: 225px;
+    height: 390px;
+    background-color: #3d6f56;
+    position: relative;
+    top: 70px;
+    left: 200px;
+}
